@@ -1,0 +1,9 @@
+C:\Users\denmm\Desktop\3 семестр\Алгоритмізація і структури данних\pr 24.02.2021\pr 24.02.2021\bin\Debug\pr 24.02.2021.exe.config
+C:\Users\denmm\Desktop\3 семестр\Алгоритмізація і структури данних\pr 24.02.2021\pr 24.02.2021\bin\Debug\pr 24.02.2021.exe
+C:\Users\denmm\Desktop\3 семестр\Алгоритмізація і структури данних\pr 24.02.2021\pr 24.02.2021\bin\Debug\pr 24.02.2021.pdb
+C:\Users\denmm\Desktop\3 семестр\Алгоритмізація і структури данних\pr 24.02.2021\pr 24.02.2021\obj\Debug\pr 24.02.2021.csprojAssemblyReference.cache
+C:\Users\denmm\Desktop\3 семестр\Алгоритмізація і структури данних\pr 24.02.2021\pr 24.02.2021\obj\Debug\pr 24.02.2021.csproj.CoreCompileInputs.cache
+C:\Users\denmm\Desktop\3 семестр\Алгоритмізація і структури данних\pr 24.02.2021\pr 24.02.2021\obj\Debug\pr 24.02.2021.exe
+C:\Users\denmm\Desktop\3 семестр\Алгоритмізація і структури данних\pr 24.02.2021\pr 24.02.2021\obj\Debug\pr 24.02.2021.pdb
+C:\Users\gamey\Desktop\погамать\Алгоритмізація і структури данних\pr 24.02.2021\pr 24.02.2021\obj\Debug\pr 24.02.2021.exe
+C:\Users\gamey\Desktop\погамать\Алгоритмізація і структури данних\pr 24.02.2021\pr 24.02.2021\obj\Debug\pr 24.02.2021.pdb
